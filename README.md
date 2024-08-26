@@ -1,4 +1,4 @@
-<h1>CTF</h1>
+<h1>Archetype CTF</h1>
 
 
 
